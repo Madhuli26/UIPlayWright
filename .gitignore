@@ -1,0 +1,8 @@
+node_modules/
+playwright-report/
+resources/reports/test-results/
+resources/reports/html-report/
+resources/reports/junit-results/
+resources/logs/
+.DS_Store
+.env
